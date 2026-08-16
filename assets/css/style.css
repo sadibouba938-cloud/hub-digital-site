@@ -1103,3 +1103,33 @@ footer {
     padding: 5px 8px;
   }
 }
+
+/* ===================== Lien boutique Chariow ===================== */
+.nav-links .nav-store {
+  color: var(--primary);
+  white-space: nowrap;
+}
+
+.nav-links .nav-store:hover {
+  color: var(--white);
+}
+
+.cta-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.btn-cta-outline {
+  color: var(--white);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  background: transparent;
+}
+
+.btn-cta-outline:hover {
+  color: var(--white);
+  background: rgba(255, 255, 255, 0.14);
+  transform: translateY(-3px);
+}
