@@ -14,6 +14,7 @@ const I18N = {
     "nav.projects": "Projets",
     "nav.faq": "FAQ",
     "nav.contact": "Contact",
+    "nav.store": "Boutique",
 
     "hero.badge": "🌍 Pensé pour le marché africain",
     "hero.title1": "Créativité et technologie,",
@@ -21,7 +22,7 @@ const I18N = {
     "hero.titleAccent": "vitrine digitale",
     "hero.sub": "Hub Digital connecte branding, storytelling et solutions digitales pour propulser votre marque auprès d’une audience locale et internationale.",
     "hero.cta1": "Découvrir nos services",
-    "hero.cta2": "Nous contacter",
+    "hero.cta2": "Visiter la boutique",
 
     "stats.s1": "Projets accompagnés",
     "stats.s2": "Pays touchés",
@@ -124,7 +125,8 @@ const I18N = {
 
     "cta.title": "Prêt·e à lancer votre projet ?",
     "cta.sub": "Discutons de votre vision. Ensemble, nous construirons une présence digitale qui vous ressemble.",
-    "cta.btn": "Contactez-nous",
+    "cta.btn": "Visiter la boutique",
+    "cta.contact": "Contactez-nous",
 
     "footer.desc": "La vitrine numérique d’un projet innovant, connectant créativité et technologie pour le marché africain et au-delà.",
     "footer.nav": "Navigation",
@@ -144,6 +146,7 @@ const I18N = {
     "nav.projects": "Projects",
     "nav.faq": "FAQ",
     "nav.contact": "Contact",
+    "nav.store": "Shop",
 
     "hero.badge": "🌍 Built for the African market",
     "hero.title1": "Creativity and technology,",
@@ -151,7 +154,7 @@ const I18N = {
     "hero.titleAccent": "digital showcase",
     "hero.sub": "Hub Digital connects branding, storytelling and digital solutions to take your brand further, with local and international audiences.",
     "hero.cta1": "Explore our services",
-    "hero.cta2": "Contact us",
+    "hero.cta2": "Visit the shop",
 
     "stats.s1": "Projects delivered",
     "stats.s2": "Countries reached",
@@ -254,7 +257,8 @@ const I18N = {
 
     "cta.title": "Ready to launch your project?",
     "cta.sub": "Let’s discuss your vision. Together, we’ll build a digital presence that truly reflects you.",
-    "cta.btn": "Get in touch",
+    "cta.btn": "Visit the shop",
+    "cta.contact": "Get in touch",
 
     "footer.desc": "The digital showcase of an innovative project connecting creativity and technology, for the African market and beyond.",
     "footer.nav": "Navigation",
@@ -274,6 +278,7 @@ const I18N = {
     "nav.projects": "مشاريعنا",
     "nav.faq": "الأسئلة الشائعة",
     "nav.contact": "اتصل بنا",
+    "nav.store": "المتجر",
 
     "hero.badge": "🌍 صُمّم للسوق الإفريقي",
     "hero.title1": "إبداع وتكنولوجيا،",
@@ -281,7 +286,7 @@ const I18N = {
     "hero.titleAccent": "واجهتكم الرقمية",
     "hero.sub": "يربط هب ديجيتال بين الهوية البصرية وسرد القصص والحلول الرقمية لإبراز علامتكم التجارية لدى جمهور محلي ودولي.",
     "hero.cta1": "اكتشف خدماتنا",
-    "hero.cta2": "اتصل بنا",
+    "hero.cta2": "زيارة المتجر",
 
     "stats.s1": "مشروع مُرافَق",
     "stats.s2": "دولة مستهدفة",
@@ -384,7 +389,8 @@ const I18N = {
 
     "cta.title": "مستعدون لإطلاق مشروعكم؟",
     "cta.sub": "لنتحدث عن رؤيتكم. معاً، سنبني حضوراً رقمياً يعبّر عنكم.",
-    "cta.btn": "اتصلوا بنا",
+    "cta.btn": "زيارة المتجر",
+    "cta.contact": "اتصلوا بنا",
 
     "footer.desc": "الواجهة الرقمية لمشروع مبتكر يربط الإبداع بالتكنولوجيا، للسوق الإفريقي وخارجه.",
     "footer.nav": "التنقل",
