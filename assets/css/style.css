@@ -85,6 +85,18 @@ header.scrolled {
   gap: 16px;
   padding: 14px 0;
 }
+.AfriDigital HUBboutique {
+  display: inline-block;
+  background-color: #0078d7;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-boutique:hover {
+  background-color: #005fa3;
+}
 
 .logo {
   display: inline-flex;
