@@ -101,6 +101,24 @@
             Des solutions complètes, pensées pour révéler le potentiel de votre marque sur le digital.
           </p>
         </div>
+<div id="chatbox">
+  <input id="userInput" placeholder="Écrivez votre message...">
+  <button onclick="sendMessage()">Envoyer</button>
+  <div id="response"></div>
+</div>
+
+<script>
+async function sendMessage() {
+  const message = document.getElementById("userInput").value;
+  const res = await fetch("http://localhost:8000/chat", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({message})
+  });
+  const data = await res.json();
+  document.getElementById("response").innerText = data.reply;
+}
+</script>
 
         <div class="services-grid">
           <article class="service-card reveal">
