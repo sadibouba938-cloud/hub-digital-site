@@ -110,8 +110,7 @@
 <script>
 async function sendMessage() {
   const message = document.getElementById("userInput").value;
-  const res = await fetch("http://localhost:8000/chat", {
-    method: "POST",
+  const res = await fetch(https://hub-digital-agent-hub-digital-agent.up.railway.app/
     headers: {"Content-Type": "application/json"},
     body: JSON.stringify({message})
   });
@@ -496,7 +495,6 @@ async function sendMessage() {
   </footer>
 
   <button id="backToTop" type="button" aria-label="Haut de page">↑</button>
-https://hub-digital-agent-hub-digital-agent.up.railway.app/
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/main.js"></script>
 </body>
