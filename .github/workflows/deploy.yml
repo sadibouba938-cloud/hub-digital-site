@@ -1,0 +1,15 @@
+# FUNDING.yml — Configuration du financement pour le dépôt Hub Digital
+
+# Plateformes de financement prises en charge par GitHub
+github: sadibouba938-cloud
+patreon: hubdigital
+open_collective: hub-digital
+ko_fi: hubdigital
+tidelift: npm/hub-digital
+community_bridge: hub-digital
+liberapay: hubdigital
+issuehunt: hubdigital
+otechie: hubdigital
+custom: 
+  - https://app.chariow.com/stores/store_n3h4zjjty54r/affiliation
+  - https://arena.ai/agent
